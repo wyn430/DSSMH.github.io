@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: [SDM 2023 Workshop Proposal]
 description: [Data Science for Smart Manufacturing and Healthcare]
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
