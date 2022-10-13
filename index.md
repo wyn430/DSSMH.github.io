@@ -54,17 +54,27 @@ This workshop aims to discuss the recent research progress of data science on sm
 ### Workshop format:
 
 
-8:00 AM – 9:00 AM <br />Breakfast
-9:00 AM – 10:30 AM <br />**Keynote**<br>
-10:30 AM – 10:40 AM <br />Coffee break<br>
-10:40 AM – 12:10 PM <br />Accepted presentations<br>
-12:10 PM – 1:30 PM <br />Lunch<br>
-1:40 PM – 3:10 PM <br />Accepted presentations<br>
-3:10 PM – 3:20 PM <br />Coffee break<br>
-3:20 PM – 4:20 PM <br />Student poster session<br>
-4:20 PM – 4:30 PM <br />Coffee break<br>
-4:30 PM – 5:00 PM <br />Future direction panel (the keynote speakers)<br>
-5:00 PM – 5:30 PM <br />Best paper/poster award ceremony & final remarks
+8:00 AM – 9:00 AM <br>Breakfast
+
+9:00 AM – 10:30 AM <br>**Keynote**<br>
+
+10:30 AM – 10:40 AM <br>Coffee break<br>
+
+10:40 AM – 12:10 PM <br>Accepted presentations<br>
+
+12:10 PM – 1:30 PM <br>Lunch<br>
+
+1:40 PM – 3:10 PM <br>Accepted presentations<br>
+
+3:10 PM – 3:20 PM <br>Coffee break<br>
+
+3:20 PM – 4:20 PM <br>Student poster session<br>
+
+4:20 PM – 4:30 PM <br>Coffee break<br>
+
+4:30 PM – 5:00 PM <br>Future direction panel (the keynote speakers)<br>
+
+5:00 PM – 5:30 PM <br>Best paper/poster award ceremony & final remarks
 
 
 ### Length of the workshop:
