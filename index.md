@@ -1,5 +1,6 @@
 ---
 title: "SDM 2023 Workshop Proposal"
+permalink:/
 layout: default
 ---
 
