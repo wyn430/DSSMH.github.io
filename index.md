@@ -54,7 +54,7 @@ This workshop aims to discuss the recent research progress of data science on sm
 ### Workshop format:
 
 
-8:00 AM – 9:00 AM <br />Breakfast<br>
+8:00 AM – 9:00 AM <br />Breakfast
 9:00 AM – 10:30 AM <br />**Keynote**<br>
 10:30 AM – 10:40 AM <br />Coffee break<br>
 10:40 AM – 12:10 PM <br />Accepted presentations<br>
