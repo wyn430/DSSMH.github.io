@@ -83,6 +83,7 @@ This workshop is expected to invite leading researchers in the domain of data mi
 | :-----------------------------: | :--------------------------------------------------: | :-------------------------------------------------------: |
 |**keynote speaker** (tentative)|_Universities_:|Dr. James Kong, Virginia Tech|
 |||Dr. Hongyue Sun, University of Buffalo|
+|||Dr. Xiaowei Yue, Virginia Tech|
 ||_National Lab_:|Dr. Kipton Barros, Los Alamos National Laboratory|
 |||Dr. Ying Wai Li, Los Alamos National Laboratory|
 ||_Induestry_:|Dr. Chansoo Ha, GE Global Research|
