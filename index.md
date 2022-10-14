@@ -79,19 +79,16 @@ This workshop is expected to be a full-day event with two half-day sessions, spl
 
 This workshop is expected to invite leading researchers in the domain of data mining, machine learning, advanced manufacturing, and healthcare systems. The target audience will be program officers from funding agencies, industries, researchers who are interested in data science and its applications, and undergraduate/graduate students in general engineering discipline who plan to pursue a career related to data science.
 
+|List of potential participants|||
+| ----------- | ----------- | ----------- |
+|**keynote speaker**|Universities:|Dr. James Kong, Virginia Tech|
+|||Dr. Hongyue Sun, University of Bufflo|
+||National Lab:||
 ||||
-| ----------- | ----------- |
-|8:00 AM – 9:00 AM|Breakfast|
-|9:00 AM – 10:30 AM|**Keynote**|
-|10:30 AM – 10:40 AM|Coffee break|
-|10:40 AM – 12:10 PM|Accepted presentations|
-|12:10 PM – 1:30 PM|Lunch|
-|1:40 PM – 3:10 PM|Accepted presentations|
-|3:10 PM – 3:20 PM|Coffee break|
-|3:20 PM – 4:20 PM |Student poster session|
-|4:20 PM – 4:30 PM|Coffee break|
-|4:30 PM – 5:00 PM|Future direction panel (the keynote speakers)|
-|5:00 PM – 5:30 PM|Best paper/poster award ceremony & final remarks|
+||Induestry:|Dr. Chansoo Ha, GE Global Research|
+|||Dr. Lening Wang, Ford Motor Company|
+|General speakers||Paper authors (10 presentation slots are scheduled)|
+|||Poster authors (10-15 posters are planned)|
 
 
 ### Selection process
