@@ -81,7 +81,7 @@ This workshop is expected to invite leading researchers in the domain of data mi
 
 |List of potential participants|||
 | :-----------: | :-----------: | :-----------: |
-|**keynote speaker**|Universities:|**Dr. James Kong**, Virginia Tech|
+|**keynote speaker**(tentative)|Universities:|**Dr. James Kong**, Virginia Tech|
 |||**Dr. Hongyue Sun**, University of Bufflo|
 ||National Lab:||
 ||||
