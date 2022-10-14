@@ -8,16 +8,15 @@ layout: default
 
 * Chenang Liu, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu 
 * Yao Ma, Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu 
-* Diane Oyen, Research Scientist, Los Alamos National Laboratory, doyen@lanl.gov
+* Diane Oyen, Scientist, Los Alamos National Laboratory, doyen@lanl.gov
 * Yinan Wang, Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
 
 
 ### Workshop Desciption
 
-In the era of Internet of things (IoT), with the rapid development of advanced sensing, data storage, and high-performance computing technologies, both manufacturing industries and healthcare systems are experiencing a data‑driven revolution. Powered by the advances of data science, extensive explorations have been conducted to search for effective and efficient solutions enabling smart diagnosis, automatic control, design optimization, customized analytics, etc. These research discoveries empowered by data science have significantly facilitated the development of smart manufacturing and intelligent healthcare systems.     
+In the era of the Internet of things (IoT), with the rapid development of advanced sensing, data storage, and high-performance computing technologies, both manufacturing industries and healthcare systems are experiencing a data‑driven revolution. However, the unique characteristics of manufacturing and healthcare systems prevent the direct application of existing data-driven methods. Their characteristics include (1) systematic physical principles; (2) high demand for interpretability, robustness, and trustworthiness; and (3) limited computation resources and the need for instant decision-making. These characteristics raised pressing needs to develop domain-aware machine learning for critical tasks in manufacturing and healthcare systems, such as smart diagnosis, automatic control, design optimization, customized analytics, etc. 
 
-This workshop aims to discuss the recent research progress of data science on smart manufacturing and healthcare research, including both theoretical foundations and practical applications. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by the real-world problems in manufacturing and healthcare. Both methodology and application papers or posters are welcome from any of the following areas, including but not limited to:
-
+This workshop aims to demonstrate the recent research progress of data science, which focuses on addressing the unique challenges in manufacturing and healthcare systems, such as the gaps in data quality assurance, domain-aware data analytics, improvement of trustworthiness, etc. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by real-world problems in manufacturing and healthcare. Papers and/or posters focus on both theoretical foundations and applications are welcomed from the areas including but not limited to:
 
 ### Methodolgy
 
@@ -25,6 +24,7 @@ This workshop aims to discuss the recent research progress of data science on sm
 * Bayesian optimization
 * Contrastive learning
 * Deep reinforcement learning
+* Domain-awared machine learning
 * Generative model
 * Graph machine learning
 * Image/video processing
@@ -83,8 +83,8 @@ This workshop is expected to invite leading researchers in the domain of data mi
 | :-----------------------------: | :--------------------------------------------------: | :-------------------------------------------------------: |
 |**keynote speaker** (tentative)|_Universities_:|Dr. James Kong, Virginia Tech|
 |||Dr. Hongyue Sun, University of Buffalo|
-||_National Lab_:|Dr. Diane Oyen, Los Alamos National Lab|
-||||
+||_National Lab_:|Dr. Kipton Barros, Los Alamos National Laboratory|
+|||Dr. Ying Wai Li, Los Alamos National Laboratory|
 ||_Induestry_:|Dr. Chansoo Ha, GE Global Research|
 |||Dr. Lening Wang, Ford Motor Company|
 |**General speakers**||Paper authors (10 presentation slots are scheduled)|
@@ -93,13 +93,13 @@ This workshop is expected to invite leading researchers in the domain of data mi
 
 ### Selection process
 
-The workshop organizers will select and invite the keynote speakers. The organizers plan to invite 4-6 keynote speakers, and will ensure a balanced distribution of those coming from industry and academia. Each keynote will be presented as a lecture with slides and there will be a short Q/A session at the end of each keynote. 
+The workshop organizers will select and invite the keynote speakers. The organizers plan to invite 4-6 keynote speakers and will ensure a balanced distribution of those coming from industry and academia. Each keynote will be presented as a lecture with slides, and there will be a short Q/A session at the end of each keynote. 
 
-The submitted papers will undergo the standard double-blind peer-review process. The workshop organizers will invite experienced program committee (PC) members for this workshop to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection to the workshop will be made. The detailed review comments and notification letter will be sent to the authors accordingly along with detailed information as to whether they have been accepted for an oral or poster presentation (as noted above in the tentative workshop schedule). 
+The submitted papers will undergo the standard double-blind peer-review process. The workshop organizers will invite experienced program committee (PC) members for this workshop to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection to the workshop will be made. The detailed review comments and notification letter will be sent to the authors accordingly, along with detailed information as to whether they have been accepted for an oral or poster presentation (as noted above in the tentative workshop schedule). 
 
-To participate in the poster session, the participants can also submit their poster abstracts to the workshop, and present their research posters in the workshop. If the number of submissions exceed the capacity, the workshop organizers will select the abstracts that have higher relevance to the workshop scope for poster presentation. 
+To participate in the poster session, the participants can also submit their poster abstracts to the workshop and present their research posters in the workshop. If the number of submissions exceeds the capacity, the workshop organizers will select the abstracts that have higher relevance to the workshop scope for poster presentations. 
 
-In addition, the workshop organizers will also invite judges from PC for the selection of best paper award and best poster award. The results will be announced in the workshop award ceremony (as noted above in the tentative workshop schedule).
+In addition, the workshop organizers will also invite judges from PC for the selection of the best paper award and best poster award. The results will be announced in the workshop award ceremony (as noted above in the tentative workshop schedule).
 
 ### Program committee (tentative)
 * Michael Biehler, Georgia Tech 
@@ -111,6 +111,7 @@ In addition, the workshop organizers will also invite judges from PC for the sel
 * Jiayuan Ding, Michigan State University
 * Wenning Feng, Goldman Sach
 * Wei Jin, Michigan State University
+* Vanessa Job, University of New Mexico
 * Chen Kan, University of Texas at Arlington
 * Andrew Law, IoTeX 
 * Jia Liu, Auburn University
@@ -119,6 +120,7 @@ In addition, the workshop organizers will also invite judges from PC for the sel
 * Harry Shomer, Michigan State University
 * Wenbo Sun, University of Michigan
 * Wenmeng Tian, Mississippi State University
+* Selma Wanna, University of Texas at Austin
 * Yu Wang, Vanderbilt University
 * Qiong Wu, AT&T
 * Xiaowei Yue, Virginia Tech
@@ -135,6 +137,6 @@ In addition, the workshop organizers will also invite judges from PC for the sel
 * **Yao Ma** iis an assistant professor in the Department of Computer Science at New Jersey Institute of Technology (NJIT). He received his Ph.D. in Computer Science from Michigan State University (MSU) in 2021. His major research interest lies in Graph Neural Networks (GNNs) for representation learning on graph-structured data. He has significantly contributed to the fundamental research and practical research of GNNs, which leads to numerous innovative works in top-tier conferences such as KDD, WWW, SIGIR, WSDM, ICDM, ICML, NeurIPS, and ICLR. He was the leading organizer and presenter of two well-received tutorials on GNNs at AAAI'2020, AAAI’2021, KDD’2020, and KDD'2021, attracting more than 1000 attendees in total. His recent book Deep Learning on Graphs has attracted tens of thousands of downloads from more than 100 countries. He received the Outstanding Graduate Student Award (2019-2020) from the College of Engineering at MSU. He has organized several workshops at top-tier data mining conferences including WSDM and ICDM.
 
 
-* **Diane Oyen** is a machine learning researcher in the Information Sciences group at the Los Alamos National Laboratory (LANL). She received her Ph.D. degree in Computer Science from University of New Mexico and bachelor's degress in Electrical and Computer Engineering at Carnegie Mellon University. Her research areas include trustworthy and reliable AI, probabilistic graphical models, unsupervised machine learning, interactive machine learning, transfer learning and lifelong machine learning. Applications include image analysis and remote sensing. She is the project leader/principal investigator for multiple projects, which covers the topics of uncertainty quantification for robust machine learning, visual data analytics tools, image analysis using graphs, etc. She is the co-organizer of the Applied Machine Learning Summer Research Fellowship at LANL. She has organized several workshops at top-tier computer science conferences including ECCV.
+* **Diane Oyen** is a Senior Scientist in the Information Sciences Group at Los Alamos National Laboratory. She received her Ph.D. in Computer Science at the University of New Mexico and her B.S. in Electrical Engineering from Carnegie Mellon. She joined Los Alamos National Laboratory in 2013 and is Principal Investigator on projects on trustworthy machine learning and on computer vision for scientific imagery, involving over a dozen research scientists plus postdocs and students. Her research focuses on developing data science approaches for scientific and national security applications; particularly through the use of graph-based machine learning to understand complex patterns in data. She has organized workshops at top-tier computer vision and machine learning conferences including CVPR and NeurIPS.
 
-* **Yinan Wang** is an assistant professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute (RPI). He received his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2022. He also received his master’s degree in Electrical Engineering from Columbia University in 2019 and bachelor's degree in Electrical Engineering and Automation from Xi’an Jiaotong University in 2017. His research interest lies in incorporating physical insights, engineering needs, and domain knowledge into proposing novel machine learning methods, which both address challenges in the manufacturing system and advanced fundamental innovation in artificial intelligence (AI). His research works were recognized by seven best paper/poster awards. He was the recipient of Computer & Information in Engineering (CIE) Best Ph.D. Dissertation Award from ASME and FTC Early Career Grant Award from ASQ. He serves as the co-organizer of one symposium in ASME MSEC 2023.
+* **Yinan Wang** is an assistant professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute (RPI). He received his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2022. He also received his master’s degree in Electrical Engineering from Columbia University in 2019 and bachelor's degree in Electrical Engineering and Automation from Xi’an Jiaotong University in 2017. His research interest lies in incorporating physical insights, engineering needs, and domain knowledge into proposing novel machine learning methods, which both address challenges in the manufacturing system and advanced fundamental innovation in artificial intelligence (AI). His research works were recognized by seven best paper/poster awards. He was the recipient of Computer & Information in Engineering (CIE) Best Ph.D. Dissertation Award from ASME and FTC Early Career Grant Award from ASQ. He is selected as the Panel Fellow in the 2023 cohort of the National Science Foundation (NSF) Division of CMMI Game Changer Academies (CGCA). He serves as the co-organizer of one symposium in ASME MSEC 2023.
