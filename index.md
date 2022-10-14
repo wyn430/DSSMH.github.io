@@ -80,7 +80,7 @@ This workshop is expected to be a full-day event with two half-day sessions, spl
 This workshop is expected to invite leading researchers in the domain of data mining, machine learning, advanced manufacturing, and healthcare systems. The target audience will be program officers from funding agencies, industries, researchers who are interested in data science and its applications, and undergraduate/graduate students in general engineering discipline who plan to pursue a career related to data science.
 
 |List of potential participants|||
-| :-----------------: | :-----------: | :-----------: |
+| :-----------------------------: | :-----------: | :-----------: |
 |**keynote speaker** (tentative)|Universities:|**Dr. James Kong**, Virginia Tech|
 |||**Dr. Hongyue Sun**, University of Bufflo|
 ||National Lab:||
