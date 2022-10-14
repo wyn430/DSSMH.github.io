@@ -24,7 +24,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Bayesian optimization
 * Contrastive learning
 * Deep reinforcement learning
-* Domain-awared machine learning
+* Domain-aware machine learning
 * Generative model
 * Graph machine learning
 * Image/video processing
