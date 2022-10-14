@@ -53,7 +53,7 @@ This workshop aims to discuss the recent research progress of data science on sm
 
 ### Workshop format:
 
-| Syntax      | Description |
+||Activity|
 | ----------- | ----------- |
 |8:00 AM – 9:00 AM|Breakfast|
 |9:00 AM – 10:30 AM|**Keynote**|
