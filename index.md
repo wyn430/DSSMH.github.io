@@ -81,11 +81,11 @@ This workshop is expected to invite leading researchers in the domain of data mi
 
 |List of potential participants|||
 | :-----------------------------: | :--------------------------------------------------: | :-------------------------------------------------------: |
-|**keynote speaker** (tentative)|Universities:|Dr. James Kong, Virginia Tech|
+|**keynote speaker** (tentative)|_Universities_:|Dr. James Kong, Virginia Tech|
 |||Dr. Hongyue Sun, University of Buffalo|
-||National Lab:||
+||_National Lab_:|Dr. Diane Oyen, Los Alamos National Lab|
 ||||
-||Induestry:|Dr. Chansoo Ha, GE Global Research|
+||_Induestry_:|Dr. Chansoo Ha, GE Global Research|
 |||Dr. Lening Wang, Ford Motor Company|
 |**General speakers**||Paper authors (10 presentation slots are scheduled)|
 |||Poster authors (10-15 posters are planned)|
@@ -135,6 +135,6 @@ In addition, the workshop organizers will also invite judges from PC for the sel
 * **Yao Ma** iis an assistant professor in the Department of Computer Science at New Jersey Institute of Technology (NJIT). He received his Ph.D. in Computer Science from Michigan State University (MSU) in 2021. His major research interest lies in Graph Neural Networks (GNNs) for representation learning on graph-structured data. He has significantly contributed to the fundamental research and practical research of GNNs, which leads to numerous innovative works in top-tier conferences such as KDD, WWW, SIGIR, WSDM, ICDM, ICML, NeurIPS, and ICLR. He was the leading organizer and presenter of two well-received tutorials on GNNs at AAAI'2020, AAAI’2021, KDD’2020, and KDD'2021, attracting more than 1000 attendees in total. His recent book Deep Learning on Graphs has attracted tens of thousands of downloads from more than 100 countries. He received the Outstanding Graduate Student Award (2019-2020) from the College of Engineering at MSU. He has organized several workshops at top-tier data mining conferences including WSDM and ICDM.
 
 
-* **Diane Oyen** TBD
+* **Diane Oyen** is a machine learning researcher in the Information Sciences group at the Los Alamos National Laboratory (LANL). She received her Ph.D. degree in Computer Science from University of New Mexico and bachelor's degress in Electrical and Computer Engineering at Carnegie Mellon University. Her research areas include trustworthy and reliable AI, probabilistic graphical models, unsupervised machine learning, interactive machine learning, transfer learning and lifelong machine learning. Applications include image analysis and remote sensing. She is the project leader/principal investigator for multiple projects, which covers the topics of uncertainty quantification for robust machine learning, visual data analytics tools, image analysis using graphs, etc. She is the co-organizer of the Applied Machine Learning Summer Research Fellowship at LANL. She has organized several workshops at top-tier computer science conferences including ECCV.
 
 * **Yinan Wang** is an assistant professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute (RPI). He received his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2022. He also received his master’s degree in Electrical Engineering from Columbia University in 2019 and bachelor's degree in Electrical Engineering and Automation from Xi’an Jiaotong University in 2017. His research interest lies in incorporating physical insights, engineering needs, and domain knowledge into proposing novel machine learning methods, which both address challenges in the manufacturing system and advanced fundamental innovation in artificial intelligence (AI). His research works were recognized by seven best paper/poster awards. He was the recipient of Computer & Information in Engineering (CIE) Best Ph.D. Dissertation Award from ASME and FTC Early Career Grant Award from ASQ. He serves as the co-organizer of one symposium in ASME MSEC 2023.
