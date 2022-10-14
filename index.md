@@ -8,7 +8,7 @@ layout: default
 
 * Chenang Liu, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu 
 * Yao Ma, Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu 
-* Diane Oyen: TBD
+* Diane Oyen, Research Scientist, Los Alamos National Laboratory, doyen@lanl.gov
 * Yinan Wang, Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
 
 
