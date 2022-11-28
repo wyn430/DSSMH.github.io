@@ -63,10 +63,10 @@ The workshop will also organize a student poster competition. Details will be an
 
 ## Full contact information of the organizers:
 
-* Chenang Liu, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu 
-* Yao Ma, Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu 
-* Diane Oyen, Scientist, Los Alamos National Laboratory, doyen@lanl.gov
-* Yinan Wang, Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
+Chenang Liu, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu 
+Yao Ma, Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu 
+Diane Oyen, Scientist, Los Alamos National Laboratory, doyen@lanl.gov
+Yinan Wang, Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
 
 ## Venue
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon.
