@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: [Data Science for Smart Manufacturing and Healthcare]
-description: [DS^2^-MH Workshop at [SDM'23](https://www.siam.org/conferences/cm/conference/sdm23)]
+description: [DS^2^-MH Workshop at SDM'23]
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
