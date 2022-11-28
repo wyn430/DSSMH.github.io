@@ -4,14 +4,14 @@ permalink: /
 layout: default
 ---
 
-### Workshop Desciption
+## Workshop Desciption
 
 In the era of the Internet of things (IoT), with the rapid development of advanced sensing, data storage, and high-performance computing technologies, both manufacturing industries and healthcare systems are experiencing a data‑driven revolution. However, the unique characteristics of manufacturing and healthcare systems prevent the direct application of existing data-driven methods. Their characteristics include (1) systematic physical principles; (2) high demand for interpretability, robustness, and trustworthiness; and (3) limited computation resources and the need for instant decision-making. These characteristics raised pressing needs to develop domain-aware machine learning for critical tasks in manufacturing and healthcare systems, such as smart diagnosis, automatic control, design optimization, customized analytics, etc. 
 
 This workshop aims to demonstrate the recent research progress of data science, which focuses on addressing the unique challenges in manufacturing and healthcare systems, such as the gaps in data quality assurance, domain-aware data analytics, improvement of trustworthiness, etc. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by real-world problems in manufacturing and healthcare. Papers and/or posters focus on both theoretical foundations and applications are welcomed from the areas including but not limited to:
 
-### Topics of Interest
-## Methodology
+## Topics of Interest
+### Methodology
 
 * Active learning
 * Bayesian optimization
@@ -26,7 +26,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Trustworthy machine learning
 * Uncertainty quantification
 
-## Application
+### Application
 
 * Additive manufacturing
 * Anomaly detection
@@ -44,31 +44,31 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Root cause diagnosis
 * Sustainable manufacturing 
 
-### Submission Guideline
+## Submission Guideline
 All paper submissions should be 3 to 8 pages (including all references, tables, and figures), following the SDM 23 conference format - please refer to the website of [SDM23](https://www.siam.org/conferences/cm/submissions-and-deadlines/sdm23-submissions-deadlines) for further details.
 
 The link for paper submission will be available soon on the website of [workshop](https://sdm23wsmh.github.io/). The submission should be in PDF format. According to the conference policy, at least one author of each accepted paper should register to the SDM23 conference. The best paper winner as well as the honorable mention (according to the reviewers' ratings) will be announced at the end of the workshop. 
 
 All submissions will be reviewed double-blind. Thus, the submissions must be blinded, and no author information should appear anywhere in the manuscript. Please note that the workshop will NOT take the ownership of paper copyrights.
 
-### Important Dates (Pacific Time)
+## Important Dates (Pacific Time)
 
 *	Paper Submission: Feb 12, 2023, 11:59 PM
 *	Acceptance Notification: March 12, 2023, 11:59 PM
 *	Final Paper Submission: April 1, 2023, 11:59 PM
 
-### Student Poster Session
+## Student Poster Session
 
 The workshop will also organize a student poster competition. Details will be announced on the website of [workshop](https://sdm23wsmh.github.io/).
 
-### Full contact information of the organizers:
+## Full contact information of the organizers:
 
 * Chenang Liu, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu 
 * Yao Ma, Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu 
 * Diane Oyen, Scientist, Los Alamos National Laboratory, doyen@lanl.gov
 * Yinan Wang, Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
 
-### Venue
+## Venue
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon.
 
 <!---
