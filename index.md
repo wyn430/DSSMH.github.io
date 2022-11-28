@@ -63,9 +63,12 @@ The workshop will also organize a student poster competition. Details will be an
 
 ## Full contact information of the organizers:
 
-Chenang Liu, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu 
-Yao Ma, Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu 
+Chenang Liu, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu
+
+Yao Ma, Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu
+
 Diane Oyen, Scientist, Los Alamos National Laboratory, doyen@lanl.gov
+
 Yinan Wang, Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
 
 ## Venue
