@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: [Data Science for Smart Manufacturing and Healthcare]
-description: [<a href="https://www.siam.org/conferences/cm/program/workshops/sdm23-workshops">DS2-MH Workshop</a> at <a href="https://www.siam.org/conferences/cm/conference/sdm23">SDM23</a> on April 27 2023]
+description: [<a href="https://www.siam.org/conferences/cm/program/workshops/sdm23-workshops">DS2-MH Workshop</a> at <a href="https://www.siam.org/conferences/cm/conference/sdm23">SDM23</a>
+Minneapolis, Minnesota, U.S., April 27 2023]
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
