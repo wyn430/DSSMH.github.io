@@ -47,7 +47,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 ## Submission Guideline
 All paper submissions should be 3 to 8 pages (including all references, tables, and figures), following the SDM 23 conference format - please refer to the website of [SDM23](https://www.siam.org/conferences/cm/submissions-and-deadlines/sdm23-submissions-deadlines) for further details.
 
-The link for paper submission will be available soon on the website of [workshop](https://sdm23wsmh.github.io/). The submission should be in PDF format. According to the conference policy, at least one author of each accepted paper should register to the SDM23 conference. The best paper winner as well as the honorable mention (according to the reviewers' ratings) will be announced at the end of the workshop. 
+The paper should be submitted via [EasyChair Submission System](https://sdm23wsmh.github.io/](https://easychair.org/conferences/?conf=ds2mhatsdm23). The submission should be in PDF format. According to the conference policy, at least one author of each accepted paper should register to the SDM23 conference. The best paper winner as well as the honorable mention (according to the reviewers' ratings) will be announced at the end of the workshop. 
 
 All submissions will be reviewed double-blind. Thus, the submissions must be blinded, and no author information should appear anywhere in the manuscript. Please note that the workshop will NOT take the ownership of paper copyrights.
 
@@ -56,6 +56,7 @@ All submissions will be reviewed double-blind. Thus, the submissions must be bli
 *	Paper Submission: Feb 12, 2023, 11:59 PM
 *	Acceptance Notification: March 12, 2023, 11:59 PM
 *	Final Paper Submission: April 1, 2023, 11:59 PM
+*	Travel Award Application: Jan. 01, 2023; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm23-conference-support)
 
 ## Student Poster Session
 
