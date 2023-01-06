@@ -53,10 +53,10 @@ All submissions will be reviewed double-blind. Thus, the submissions must be bli
 
 ## Important Dates (Pacific Time)
 
+*	Travel Award Application: Jan. 26, 2023; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm23-conference-support)
 *	Paper Submission: Feb. 12, 2023, 11:59 PM
 *	Acceptance Notification: March 12, 2023, 11:59 PM
 *	Final Paper Submission: April 1, 2023, 11:59 PM
-*	Travel Award Application: Jan. 26, 2023; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm23-conference-support)
 
 ## Student Poster Session
 
