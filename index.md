@@ -49,7 +49,7 @@ All paper submissions should be 3 to 8 pages (including all references, tables, 
 
 The paper should be submitted via [EasyChair Submission System](https://easychair.org/conferences/?conf=ds2mhatsdm23). The submission should be in PDF format. According to the conference policy, at least one author of each accepted paper should register to the SDM23 conference. The best paper winner as well as the honorable mention (according to the reviewers' ratings) will be announced at the end of the workshop. 
 
-All submissions will be reviewed double-blind. Thus, the submissions must be blinded, and no author information should appear anywhere in the manuscript. Please note that the workshop will NOT take the ownership of paper copyrights.
+All submissions will be reviewed double-blind. Thus, the submissions must be blinded, and no author information should appear anywhere in the manuscript. **Please note that the workshop will NOT take the ownership of paper copyrights. The papers submitted to the main conference are also welcome to submit to the workshop**.
 
 ## Important Dates (Pacific Time)
 
@@ -73,7 +73,7 @@ The workshop will also organize a student poster competition. Details will be an
 [Yinan Wang](https://yinanw-rpi.com/), Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
 
 ## Venue
-This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon.
+This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/lodging-and-support/hotel-transportation-information/sdm23-hotel-transportation-information).
 
 <!---
 ### Workshop format:
