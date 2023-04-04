@@ -56,7 +56,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 ## Workshop Agenda (Central Daylight Time)
 * 10:00 – 10:10: Welcome and Opening Remarks
 * 10:10 – 10:50: Keynote presentation 1 -- [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)
-* 10:50 – 11:30: Keynote presentation 2 -- [Dr. Honghan Ye](https://yehonghan.com/)|
+* 10:50 – 11:30: Keynote presentation 2 -- [Dr. Honghan Ye](https://yehonghan.com/)
 * 11:30 – 11:45: Contributing paper presentation 1 -- [Yuxuan Li](https://www.linkedin.com/in/yuxuan-li-90887a1a8/)
 * 11:45 – 12:00: Contributing paper presentation 2 -- [Dr. Yinan Wang](https://yinanw-rpi.com/)
 * 12:00 – 13:30: Lunch break
