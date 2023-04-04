@@ -44,20 +44,14 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Root cause diagnosis
 * Sustainable manufacturing 
 
-
-
-## Full contact information of the organizers:
-
-[Chenang Liu](https://stars-laboratory.github.io/), Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu
-
-[Yao Ma](https://web.njit.edu/~ym329/), Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu
-
-[Diane Oyen](https://public.lanl.gov/doyen/), Scientist, Los Alamos National Laboratory, doyen@lanl.gov
-
-[Yinan Wang](https://yinanw-rpi.com/), Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
-
-## Venue
-This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/lodging-and-support/hotel-transportation-information/sdm23-hotel-transportation-information).
+## Keynote Speakers
+|Name|Affiliation|
+| :-----------: | :-----------: |
+|[Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)|University of Louisville|
+|[Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)|Helmut Schmidt University|
+|[Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)|University of Texas Rio Grande Valley|
+|[Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)|Mayo Clinic|
+|[Dr. Honghan Ye](https://yehonghan.com/)|3M|
 
 ## Workshop Agenda (Central Daylight Time)
 |Time|Activity|
@@ -73,6 +67,19 @@ This workshop will be held in conjunction with SIAM International Conference on 
 |14:50 – 15:30|Keynote presentation 5 -- [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)|
 |15:30 – 15:45|Contributing paper presentation 3 -- [Ankita Agarwal](https://yinanw-rpi.com/)|
 |15:45 – 15:50|Closing remarks|
+
+## Full contact information of the organizers:
+
+[Chenang Liu](https://stars-laboratory.github.io/), Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu
+
+[Yao Ma](https://web.njit.edu/~ym329/), Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu
+
+[Diane Oyen](https://public.lanl.gov/doyen/), Scientist, Los Alamos National Laboratory, doyen@lanl.gov
+
+[Yinan Wang](https://yinanw-rpi.com/), Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
+
+## Venue
+This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/lodging-and-support/hotel-transportation-information/sdm23-hotel-transportation-information).
 
 <!---
 ### Workshop format:
