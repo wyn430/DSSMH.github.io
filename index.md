@@ -44,23 +44,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Root cause diagnosis
 * Sustainable manufacturing 
 
-## Submission Guideline
-All paper submissions should be 3 to 8 pages (including all references, tables, and figures), following the SDM 23 conference format - please refer to the website of [SDM23](https://www.siam.org/conferences/cm/submissions-and-deadlines/sdm23-submissions-deadlines) for further details.
 
-The paper should be submitted via [EasyChair Submission System](https://easychair.org/conferences/?conf=ds2mhatsdm23). The submission should be in PDF format. According to the conference policy, at least one author of each accepted paper should register to the SDM23 conference. The best paper winner as well as the honorable mention (according to the reviewers' ratings) will be announced at the end of the workshop. 
-
-All submissions will be reviewed double-blind. Thus, the submissions must be blinded, and no author information should appear anywhere in the manuscript. **Please note that the workshop will NOT take the ownership of paper copyrights. The papers submitted to the main conference are also welcome to submit to the workshop**.
-
-## Important Dates (Pacific Time)
-
-*	Travel Award Application: ~~Jan. 26, 2023~~ Feb. 17, 2023; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm23-conference-support)
-*	Paper Submission: ~~Feb. 12, 2023, 11:59 PM~~ ~~Feb. 26, 2023, 11:59 PM~~ March 5, 2023, 11:59 PM; [Call for Papers](https://easychair.org/cfp/DS2MH-at-SDM23)
-*	Acceptance Notification: March 12, 2023, 11:59 PM
-*	Final Paper Submission: April 1, 2023, 11:59 PM
-
-## Student Poster Session
-
-The workshop will also organize a student poster competition. Details will be announced on the website of [workshop](https://sdm23wsmh.github.io/).
 
 ## Full contact information of the organizers:
 
@@ -75,8 +59,42 @@ The workshop will also organize a student poster competition. Details will be an
 ## Venue
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/lodging-and-support/hotel-transportation-information/sdm23-hotel-transportation-information).
 
+## Workshop Agenda (Central Daylight Time)
+|Time|Activity|
+| :-----------: | :-----------: |
+|10:00 – 10:10|Welcome and Opening Remarks|
+|10:10 – 10:50|Keynote presentation 1 -- [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)|
+|10:50 – 11:30|Keynote presentation 2 -- [Dr. Honghan Ye](https://yehonghan.com/)|
+|11:30 – 11:45|Contributing paper presentation 1 -- [Yuxuan Li](https://www.linkedin.com/in/yuxuan-li-90887a1a8/)|
+|11:45 – 12:00|Contributing paper presentation 2 -- [Dr. Yinan Wang](https://yinanw-rpi.com/)|
+|12:00 – 13:30|Lunch break|
+|13:30 – 14:10|Keynote presentation 3 -- [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)|
+|14:10 – 14:50|Keynote presentation 4 -- [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)|
+|14:50 – 15:30|Keynote presentation 5 -- [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)|
+|15:30 – 15:45|Contributing paper presentation 3 -- [Ankita Agarwal](https://yinanw-rpi.com/)|
+|15:45 – 15:50|Closing remarks|
+
 <!---
 ### Workshop format:
+
+## Submission Guideline
+All paper submissions should be 3 to 8 pages (including all references, tables, and figures), following the SDM 23 conference format - please refer to the website of [SDM23](https://www.siam.org/conferences/cm/submissions-and-deadlines/sdm23-submissions-deadlines) for further details.
+
+The paper should be submitted via [EasyChair Submission System](https://easychair.org/conferences/?conf=ds2mhatsdm23). The submission should be in PDF format. According to the conference policy, at least one author of each accepted paper should register to the SDM23 conference. The best paper winner as well as the honorable mention (according to the reviewers' ratings) will be announced at the end of the workshop. 
+
+All submissions will be reviewed double-blind. Thus, the submissions must be blinded, and no author information should appear anywhere in the manuscript. **Please note that the workshop will NOT take the ownership of paper copyrights. The papers submitted to the main conference are also welcome to submit to the workshop**.
+
+## Important Dates (Central Daylight Time)
+
+*	Travel Award Application: ~~Jan. 26, 2023~~ Feb. 17, 2023; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm23-conference-support)
+*	Paper Submission: ~~Feb. 12, 2023, 11:59 PM~~ ~~Feb. 26, 2023, 11:59 PM~~ March 5, 2023, 11:59 PM; [Call for Papers](https://easychair.org/cfp/DS2MH-at-SDM23)
+*	Acceptance Notification: March 12, 2023, 11:59 PM
+*	Final Paper Submission: April 1, 2023, 11:59 PM
+
+## Student Poster Session
+
+The workshop will also organize a student poster competition. Details will be announced on the website of [workshop](https://sdm23wsmh.github.io/).
+
 
 |Time|Activity|
 | :-----------: | :-----------: |
