@@ -51,7 +51,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 |[Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)|Helmut Schmidt University|Second-Order Difference Penalties for Ordinal Data|
 |[Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)|University of Texas Rio Grande Valley|TBA|
 |[Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)|Mayo Clinic|ChatGPT and Health Natural Language Processing|
-|[Dr. Honghan Ye](https://yehonghan.com/)|3M|Intelligent sampling strategy for online monitoring of complex systems|
+|[Dr. Honghan Ye](https://yehonghan.com/)|3M|Intelligent Sampling Strategy for Online Monitoring of Complex Systems|
 
 ## Workshop Agenda (Central Daylight Time)
 |Time|Activity|
