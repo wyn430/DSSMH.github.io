@@ -54,19 +54,17 @@ This workshop aims to demonstrate the recent research progress of data science, 
 |[Dr. Honghan Ye](https://yehonghan.com/)|3M|Intelligent Sampling Strategy for Online Monitoring of Complex Systems|
 
 ## Workshop Agenda (Central Daylight Time)
-|Time|Activity|
-| :-----------: | :-----------: |
-|10:00 – 10:10|Welcome and Opening Remarks|
-|10:10 – 10:50|Keynote presentation 1 -- [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)|
-|10:50 – 11:30|Keynote presentation 2 -- [Dr. Honghan Ye](https://yehonghan.com/)|
-|11:30 – 11:45|Contributing paper presentation 1 -- [Yuxuan Li](https://www.linkedin.com/in/yuxuan-li-90887a1a8/)|
-|11:45 – 12:00|Contributing paper presentation 2 -- [Dr. Yinan Wang](https://yinanw-rpi.com/)|
-|12:00 – 13:30|Lunch break|
-|13:30 – 14:10|Keynote presentation 3 -- [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)|
-|14:10 – 14:50|Keynote presentation 4 -- [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)|
-|14:50 – 15:30|Keynote presentation 5 -- [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)|
-|15:30 – 15:45|Contributing paper presentation 3 -- [Ankita Agarwal](https://yinanw-rpi.com/)|
-|15:45 – 15:50|Closing remarks|
+* 10:00 – 10:10 Welcome and Opening Remarks
+* 10:10 – 10:50 Keynote presentation 1 -- [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)
+* 10:50 – 11:30 Keynote presentation 2 -- [Dr. Honghan Ye](https://yehonghan.com/)|
+* 11:30 – 11:45 Contributing paper presentation 1 -- [Yuxuan Li](https://www.linkedin.com/in/yuxuan-li-90887a1a8/)
+* 11:45 – 12:00 Contributing paper presentation 2 -- [Dr. Yinan Wang](https://yinanw-rpi.com/)
+* 12:00 – 13:30 Lunch break
+* 13:30 – 14:10 Keynote presentation 3 -- [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)
+* 14:10 – 14:50 Keynote presentation 4 -- [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)
+* 14:50 – 15:30 Keynote presentation 5 -- [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)
+* 15:30 – 15:45 Contributing paper presentation 3 -- [Ankita Agarwal](https://yinanw-rpi.com/)
+* 15:45 – 15:50 Closing remarks
 
 ## Full contact information of the organizers:
 
