@@ -51,7 +51,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780), Assistant Professor, Mayo Clinic, *ChatGPT and Health Natural Language Processing*
 * [Dr. Honghan Ye](https://yehonghan.com/), Data Scientist, 3M, *Intelligent Sampling Strategy for Online Monitoring of Complex Systems*
 
-## Workshop Agenda (Central Daylight Time)
+## Workshop Agenda (April 27th, 2023, Central Daylight Time)
 * 10:00 – 10:10: Welcome and Opening Remarks
 * 10:10 – 10:50: Keynote presentation 1 -- [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)
 * 10:50 – 11:30: Keynote presentation 2 -- [Dr. Honghan Ye](https://yehonghan.com/)
