@@ -45,13 +45,13 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Sustainable manufacturing 
 
 ## Keynote Speakers
-|Name|Affiliation|
-| :-----------: | :-----------: |
-|[Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)|University of Louisville|
-|[Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)|Helmut Schmidt University|
-|[Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)|University of Texas Rio Grande Valley|
-|[Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)|Mayo Clinic|
-|[Dr. Honghan Ye](https://yehonghan.com/)|3M|
+|Name|Affiliation|Talk|
+| :-----------: | :-----------: |:-----------: |
+|[Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)|University of Louisville|TBA|
+|[Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)|Helmut Schmidt University|Second-Order Difference Penalties for Ordinal Data|
+|[Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)|University of Texas Rio Grande Valley|TBA|
+|[Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)|Mayo Clinic|ChatGPT and Health Natural Language Processing|
+|[Dr. Honghan Ye](https://yehonghan.com/)|3M|Intelligent sampling strategy for online monitoring of complex systems|
 
 ## Workshop Agenda (Central Daylight Time)
 |Time|Activity|
