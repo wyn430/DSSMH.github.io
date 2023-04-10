@@ -45,7 +45,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Sustainable manufacturing 
 
 ## Keynote Speakers
-* [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/), Assistant Professor, University of Louisville, *TBA*
+* [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/), Assistant Professor, University of Louisville, *Adaptive Computation Service for Cyber-Physical Systems for Advanced Manufacturing*
 * [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2), Professor, Helmut Schmidt University, *Second-Order Difference Penalties for Ordinal Data*
 * [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm), Assistant Professor, University of Texas Rio Grande Valley, *TBA*
 * [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780), Assistant Professor, Mayo Clinic, *ChatGPT and Health Natural Language Processing*
