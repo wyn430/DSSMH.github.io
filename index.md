@@ -45,12 +45,20 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Sustainable manufacturing 
 
 ## Keynote Speakers
-* [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/), Assistant Professor, University of Louisville
-**Title: Adaptive Computation Service for Cyber-Physical Systems for Advanced Manufacturing**
+[Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/), Assistant Professor, University of Louisville
+* **Title: Adaptive Computation Service for Cyber-Physical Systems for Advanced Manufacturing**
+
 **Abstract:** Machine learning (ML) has been playing an increasingly important role in cyber-manufacturing systems (CMSs) to enable intelligent decision support. In recent years, the increasing popularity of customized manufacturing started to challenge existing ML methods by the frequently changing contexts (e.g., customized specifications). Specifically, most of the existing studies in CMSs investigate ML techniques for a few specific applications, which typically require months/years of investigation but may not be sustainable as contexts are frequently changing. It is now strongly desired to rapidly adapt ML methods to the changing contexts to provide responsive and accurate decision support. Such adaptation directly leads to two fundamental questions: (1) what ML methods should be selected to achieve satisfactory accuracy and (2) how to efficiently select the ML methods without scalability issues for large-scale problems? These questions motivated my research on ML for adaptive computation service. The major contributions of the adaptive computation service are (1) a recommender system to effectively rank different ML methods in a pipeline format considering small-scale problems; and (2) a tree-based recommender system to address the scalability issues in large-scale problems. Both methodologies were validated in manufacturing applications to demonstrate the generalizability.
 
-* [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2), Professor, Helmut Schmidt University, *Second-Order Difference Penalties for Ordinal Data*
-* [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm), Assistant Professor, University of Texas Rio Grande Valley, *Time Series Data Mining for Manufacturing and Healthcare*
+[Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2), Professor, Helmut Schmidt University
+* **Title: Second-Order Difference Penalties for Ordinal Data**
+
+**Abstract:** The use of second-order difference penalties for ordinal data will be discussed, with the main focus being on non-linear principal component analysis (PCA). In general, non-linear PCA for categorical data, also called optimal scoring/scaling, constructs new variables by assigning numerical values to categories such that the proportion of variance in those new variables that is explained by a predefined number of principal components is maximized. In the talk, a penalized version of non-linear PCA for ordinal variables is presented that is an intermediate between standard, linear PCA on category labels, and non-linear PCA as used so far. In addition, it will be discussed how second-order difference penalties can be employed for statistical inference with ordinal predictors in generalized additive models.
+
+[Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm), Assistant Professor, University of Texas Rio Grande Valley
+* **Title: Time Series Data Mining for Manufacturing and Healthcare**
+**Abstract:** Thanks to the recent advancement of sensor techniques, time series data is one of the most commonly encountered data used in both manufacturing and healthcare and is ubiquitous in various applications. There are many advanced interpretable time series data mining tools are just been introduced in recent years. In this talk, we will introduce recent development in developing interpretable time series data mining tools with examples in the field of manufacturing and healthcare. I will first briefly give an overview of the most unique characteristics of such approaches. Then, we will talk about three topics: 1) motif discovery, 2) time series chain discovery, and 3) privacy-aware matrix profile. The talk will emphasize how to apply such techniques in the field of manufacturing and healthcare.
+
 * [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780), Assistant Professor, Mayo Clinic, *ChatGPT and Health Natural Language Processing*
 * [Dr. Honghan Ye](https://yehonghan.com/), Data Scientist, 3M, *Intelligent Sampling Strategy for Online Monitoring of Complex Systems*
 
