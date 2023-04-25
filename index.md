@@ -50,6 +50,8 @@ This workshop aims to demonstrate the recent research progress of data science, 
 
 **Abstract:** Machine learning (ML) has been playing an increasingly important role in cyber-manufacturing systems (CMSs) to enable intelligent decision support. In recent years, the increasing popularity of customized manufacturing started to challenge existing ML methods by the frequently changing contexts (e.g., customized specifications). Specifically, most of the existing studies in CMSs investigate ML techniques for a few specific applications, which typically require months/years of investigation but may not be sustainable as contexts are frequently changing. It is now strongly desired to rapidly adapt ML methods to the changing contexts to provide responsive and accurate decision support. Such adaptation directly leads to two fundamental questions: (1) what ML methods should be selected to achieve satisfactory accuracy and (2) how to efficiently select the ML methods without scalability issues for large-scale problems? These questions motivated my research on ML for adaptive computation service. The major contributions of the adaptive computation service are (1) a recommender system to effectively rank different ML methods in a pipeline format considering small-scale problems; and (2) a tree-based recommender system to address the scalability issues in large-scale problems. Both methodologies were validated in manufacturing applications to demonstrate the generalizability.
 
+------------------------------------------------------------------------------------------
+
 [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2), Professor, Helmut Schmidt University
 * **Title: Second-Order Difference Penalties for Ordinal Data**
 
