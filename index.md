@@ -57,10 +57,18 @@ This workshop aims to demonstrate the recent research progress of data science, 
 
 [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm), Assistant Professor, University of Texas Rio Grande Valley
 * **Title: Time Series Data Mining for Manufacturing and Healthcare**
+
 **Abstract:** Thanks to the recent advancement of sensor techniques, time series data is one of the most commonly encountered data used in both manufacturing and healthcare and is ubiquitous in various applications. There are many advanced interpretable time series data mining tools are just been introduced in recent years. In this talk, we will introduce recent development in developing interpretable time series data mining tools with examples in the field of manufacturing and healthcare. I will first briefly give an overview of the most unique characteristics of such approaches. Then, we will talk about three topics: 1) motif discovery, 2) time series chain discovery, and 3) privacy-aware matrix profile. The talk will emphasize how to apply such techniques in the field of manufacturing and healthcare.
 
-* [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780), Assistant Professor, Mayo Clinic, *ChatGPT and Health Natural Language Processing*
-* [Dr. Honghan Ye](https://yehonghan.com/), Data Scientist, 3M, *Intelligent Sampling Strategy for Online Monitoring of Complex Systems*
+[Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780), Assistant Professor, Mayo Clinic, 
+* **Title: ChatGPT and Health Natural Language Processing**
+
+**Abstract:** Natural language processing (NLP) is playing a crucial role in health informatics for improving health care. ChatGPT, a recent large language model developed by openAI, is one of the cutting-edge technologies that are potentially revolutionizing healthcare NLP. With its ability to understand human language and generate human-like responses, ChatGPT is transforming how healthcare professionals interact with patients and how medical information is processed. In this talk, we will overview the development and application of NLP in healthcare and explore the potential of ChatGPT in changing health NLP and how it can lead to more efficient healthcare systems and better patient outcomes. We also discuss the challenges and limitations that need to be addressed to fully realize the potential of this innovative technology in healthcare.
+
+[Dr. Honghan Ye](https://yehonghan.com/), Data Scientist, 3M
+* **Title: Intelligent Sampling Strategy for Online Monitoring of Complex Systems**
+
+**Abstract:** The rapid advancements of sensor technology have created a data-rich environment and shown great promises for increasing detection capabilities in complex systems. Such massive data, involving heterogeneous high-dimensional data streams with high sampling frequency, incur high costs on data collection, transmission, and analysis in practice. Thus, the resource constraint often restricts the data observability to only a subset of data streams at each data acquisition time, posing significant challenges in many online monitoring applications. In this talk, the speaker will discuss some recent developments of intelligent sampling strategies for effective online process monitoring and quality improvement..
 
 ## Workshop Agenda (April 27th, 2023, Central Daylight Time)
 * 10:00 – 10:10: Welcome and Opening Remarks
