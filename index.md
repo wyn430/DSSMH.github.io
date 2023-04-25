@@ -57,15 +57,21 @@ This workshop aims to demonstrate the recent research progress of data science, 
 
 **Abstract:** The use of second-order difference penalties for ordinal data will be discussed, with the main focus being on non-linear principal component analysis (PCA). In general, non-linear PCA for categorical data, also called optimal scoring/scaling, constructs new variables by assigning numerical values to categories such that the proportion of variance in those new variables that is explained by a predefined number of principal components is maximized. In the talk, a penalized version of non-linear PCA for ordinal variables is presented that is an intermediate between standard, linear PCA on category labels, and non-linear PCA as used so far. In addition, it will be discussed how second-order difference penalties can be employed for statistical inference with ordinal predictors in generalized additive models.
 
+------------------------------------------------------------------------------------------
+
 [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm), Assistant Professor, University of Texas Rio Grande Valley
 * **Title: Time Series Data Mining for Manufacturing and Healthcare**
 
 **Abstract:** Thanks to the recent advancement of sensor techniques, time series data is one of the most commonly encountered data used in both manufacturing and healthcare and is ubiquitous in various applications. There are many advanced interpretable time series data mining tools are just been introduced in recent years. In this talk, we will introduce recent development in developing interpretable time series data mining tools with examples in the field of manufacturing and healthcare. I will first briefly give an overview of the most unique characteristics of such approaches. Then, we will talk about three topics: 1) motif discovery, 2) time series chain discovery, and 3) privacy-aware matrix profile. The talk will emphasize how to apply such techniques in the field of manufacturing and healthcare.
 
+------------------------------------------------------------------------------------------
+
 [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780), Assistant Professor, Mayo Clinic, 
 * **Title: ChatGPT and Health Natural Language Processing**
 
 **Abstract:** Natural language processing (NLP) is playing a crucial role in health informatics for improving health care. ChatGPT, a recent large language model developed by openAI, is one of the cutting-edge technologies that are potentially revolutionizing healthcare NLP. With its ability to understand human language and generate human-like responses, ChatGPT is transforming how healthcare professionals interact with patients and how medical information is processed. In this talk, we will overview the development and application of NLP in healthcare and explore the potential of ChatGPT in changing health NLP and how it can lead to more efficient healthcare systems and better patient outcomes. We also discuss the challenges and limitations that need to be addressed to fully realize the potential of this innovative technology in healthcare.
+
+------------------------------------------------------------------------------------------
 
 [Dr. Honghan Ye](https://yehonghan.com/), Data Scientist, 3M
 * **Title: Intelligent Sampling Strategy for Online Monitoring of Complex Systems**
