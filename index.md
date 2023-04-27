@@ -88,7 +88,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * 13:30 – 14:10: Keynote presentation 3 -- [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)
 * 14:10 – 14:50: Keynote presentation 4 -- [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)
 * 14:50 – 15:30: Keynote presentation 5 -- [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)
-* 15:30 – 15:45: Contributing paper presentation 3 -- [Ankita Agarwal](https://yinanw-rpi.com/)
+* 15:30 – 15:45: Contributing paper presentation 3 -- [Ankita Agarwal](https://www.linkedin.com/in/ankita-agarwal-03359550/)
 * 15:45 – 15:50: Closing remarks
 
 ## Full contact information of the organizers:
