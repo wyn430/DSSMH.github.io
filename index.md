@@ -58,7 +58,8 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * 15:05 – 15:20: Contributing paper presentation 4
 * 15:20 – 15:35: Contributing paper presentation 5
 * 15:35 – 15:45: Workshop award ceremony and closing remarks
-*The schedule may subject to change according to the SDM conference schedule.*
+
+*\*The schedule may subject to change according to the SDM conference schedule.*
 
 **Length of the workshop**: This workshop is expected to be a full-day event with two half-day sessions, split by a lunch break. 
 
