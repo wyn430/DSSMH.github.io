@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: [Data Science for Smart Manufacturing and Healthcare Workshop]
-description: [DS2-MH Workshop at <a href="https://www.siam.org/conferences/cm/conference/sdm24">SDM24</a> 'April 18-20, 2024 at Memorial City, Houston' ]
+description: [DS2-MH Workshop at <a href="https://www.siam.org/conferences/cm/conference/sdm24">SDM24</a> April 18-20 2024 at Houston]
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
