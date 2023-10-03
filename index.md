@@ -1,14 +1,14 @@
 ---
-title: "SDM 2023 Workshop Proposal"
+title: "SDM 2024 Workshop Proposal"
 permalink: /
 layout: default
 ---
 
 ## Workshop Desciption
 
-In the era of the Internet of things (IoT), with the rapid development of advanced sensing, data storage, and high-performance computing technologies, both manufacturing industries and healthcare systems are experiencing a data‑driven revolution. However, the unique characteristics of manufacturing and healthcare systems prevent the direct application of existing data-driven methods. Their characteristics include (1) systematic physical principles; (2) high demand for interpretability, robustness, and trustworthiness; and (3) limited computation resources and the need for instant decision-making. These characteristics raised pressing needs to develop domain-aware machine learning for critical tasks in manufacturing and healthcare systems, such as smart diagnosis, automatic control, design optimization, customized analytics, etc. 
+In the era of the Internet of Things (IoT), with the rapid development of advanced sensing, data storage, data analytics, and high-performance computing technologies, both manufacturing industries and healthcare systems are experiencing a data‑driven revolution. However, the unique characteristics of manufacturing and healthcare systems prevent the direct application of existing data-driven methods. Their characteristics include (1) systematic physical principles, (2) high demand for interpretability, robustness, and trustworthiness, and (3) limited computation resources and the need for instant decision-making. These characteristics raised pressing needs to develop domain-aware data-driven approaches for critical tasks in manufacturing and healthcare systems, such as smart diagnosis, automatic control, design optimization, customized analytics, etc.
 
-This workshop aims to demonstrate the recent research progress of data science, which focuses on addressing the unique challenges in manufacturing and healthcare systems, such as the gaps in data quality assurance, domain-aware data analytics, improvement of trustworthiness, etc. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by real-world problems in manufacturing and healthcare. Papers and/or posters focus on both theoretical foundations and applications are welcomed from the areas including but not limited to:
+This workshop aims to demonstrate the recent research progress of data science, which focuses on addressing the unique challenges in manufacturing and healthcare systems, such as the gaps in data quality/security assurance, domain-aware data analytics, improvement of trustworthiness, etc. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by real-world problems in manufacturing and healthcare. Papers and/or posters focus on both theoretical foundations and applications are welcomed from the areas including but not limited to:
 
 ## Topics of Interest
 ### Methodology
@@ -16,6 +16,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Active learning
 * Bayesian optimization
 * Contrastive learning
+* Data-driven inverse modeling
 * Deep reinforcement learning
 * Domain-aware machine learning
 * Generative model
@@ -44,68 +45,43 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Root cause diagnosis
 * Sustainable manufacturing 
 
-## Keynote Speakers
-[Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/), Assistant Professor, University of Louisville
-* **Title: Adaptive Computation Service for Cyber-Physical Systems for Advanced Manufacturing**
-
-**Abstract:** Machine learning (ML) has been playing an increasingly important role in cyber-manufacturing systems (CMSs) to enable intelligent decision support. In recent years, the increasing popularity of customized manufacturing started to challenge existing ML methods by the frequently changing contexts (e.g., customized specifications). Specifically, most of the existing studies in CMSs investigate ML techniques for a few specific applications, which typically require months/years of investigation but may not be sustainable as contexts are frequently changing. It is now strongly desired to rapidly adapt ML methods to the changing contexts to provide responsive and accurate decision support. Such adaptation directly leads to two fundamental questions: (1) what ML methods should be selected to achieve satisfactory accuracy and (2) how to efficiently select the ML methods without scalability issues for large-scale problems? These questions motivated my research on ML for adaptive computation service. The major contributions of the adaptive computation service are (1) a recommender system to effectively rank different ML methods in a pipeline format considering small-scale problems; and (2) a tree-based recommender system to address the scalability issues in large-scale problems. Both methodologies were validated in manufacturing applications to demonstrate the generalizability.
-
-------------------------------------------------------------------------------------------
-
-[Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2), Professor, Helmut Schmidt University
-* **Title: Second-Order Difference Penalties for Ordinal Data**
-
-**Abstract:** The use of second-order difference penalties for ordinal data will be discussed, with the main focus being on non-linear principal component analysis (PCA). In general, non-linear PCA for categorical data, also called optimal scoring/scaling, constructs new variables by assigning numerical values to categories such that the proportion of variance in those new variables that is explained by a predefined number of principal components is maximized. In the talk, a penalized version of non-linear PCA for ordinal variables is presented that is an intermediate between standard, linear PCA on category labels, and non-linear PCA as used so far. In addition, it will be discussed how second-order difference penalties can be employed for statistical inference with ordinal predictors in generalized additive models.
-
-------------------------------------------------------------------------------------------
-
-[Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm), Assistant Professor, University of Texas Rio Grande Valley
-* **Title: Time Series Data Mining for Manufacturing and Healthcare**
-
-**Abstract:** Thanks to the recent advancement of sensor techniques, time series data is one of the most commonly encountered data used in both manufacturing and healthcare and is ubiquitous in various applications. There are many advanced interpretable time series data mining tools are just been introduced in recent years. In this talk, we will introduce recent development in developing interpretable time series data mining tools with examples in the field of manufacturing and healthcare. I will first briefly give an overview of the most unique characteristics of such approaches. Then, we will talk about three topics: 1) motif discovery, 2) time series chain discovery, and 3) privacy-aware matrix profile. The talk will emphasize how to apply such techniques in the field of manufacturing and healthcare.
-
-------------------------------------------------------------------------------------------
-
-[Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780), Assistant Professor, Mayo Clinic, 
-* **Title: ChatGPT and Health Natural Language Processing**
-
-**Abstract:** Natural language processing (NLP) is playing a crucial role in health informatics for improving health care. ChatGPT, a recent large language model developed by openAI, is one of the cutting-edge technologies that are potentially revolutionizing healthcare NLP. With its ability to understand human language and generate human-like responses, ChatGPT is transforming how healthcare professionals interact with patients and how medical information is processed. In this talk, we will overview the development and application of NLP in healthcare and explore the potential of ChatGPT in changing health NLP and how it can lead to more efficient healthcare systems and better patient outcomes. We also discuss the challenges and limitations that need to be addressed to fully realize the potential of this innovative technology in healthcare.
-
-------------------------------------------------------------------------------------------
-
-[Dr. Honghan Ye](https://yehonghan.com/), Data Scientist, 3M
-* **Title: Intelligent Sampling Strategy for Online Monitoring of Complex Systems**
-
-**Abstract:** The rapid advancements of sensor technology have created a data-rich environment and shown great promises for increasing detection capabilities in complex systems. Such massive data, involving heterogeneous high-dimensional data streams with high sampling frequency, incur high costs on data collection, transmission, and analysis in practice. Thus, the resource constraint often restricts the data observability to only a subset of data streams at each data acquisition time, posing significant challenges in many online monitoring applications. In this talk, the speaker will discuss some recent developments of intelligent sampling strategies for effective online process monitoring and quality improvement..
-
-## Workshop Agenda (April 27th, 2023, Central Daylight Time)
+## Tentative Workshop Agenda
 * 10:00 – 10:10: Welcome and Opening Remarks
-* 10:10 – 10:50: Keynote presentation 1 -- [Dr. Jan Gertheiss](https://www.hsu-hh.de/statdat/en/jan-gertheiss-2)
-* 10:50 – 11:30: Keynote presentation 2 -- [Dr. Honghan Ye](https://yehonghan.com/)
-* 11:30 – 11:45: Contributing paper presentation 1 -- [Yuxuan Li](https://www.linkedin.com/in/yuxuan-li-90887a1a8/)
-* 11:45 – 12:00: Contributing paper presentation 2 -- [Dr. Yinan Wang](https://yinanw-rpi.com/)
+* 10:10 – 10:50: Keynote presentation 1
+* 10:50 – 11:30: Keynote presentation 2
+* 11:30 – 11:45: Contributing paper presentation 1
+* 11:45 – 12:00: Contributing paper presentation 2
 * 12:00 – 13:30: Lunch break
-* 13:30 – 14:10: Keynote presentation 3 -- [Dr. Ming Huang](https://www.mayo.edu/research/faculty/huang-ming-ph-d/bio-20478780)
-* 14:10 – 14:50: Keynote presentation 4 -- [Dr. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm)
-* 14:50 – 15:30: Keynote presentation 5 -- [Dr. Xiaoyu Chen](https://xiaoyu-chen.ml/)
-* 15:30 – 15:45: Contributing paper presentation 3 -- [Ankita Agarwal](https://www.linkedin.com/in/ankita-agarwal-03359550/)
-* 15:45 – 15:50: Closing remarks
+* 13:30 – 14:10: Keynote presentation 3
+* 14:10 – 14:50: Keynote presentation 4
+* 14:50 – 15:05: Contributing paper presentation 3
+* 15:05 – 15:20: Contributing paper presentation 4
+* 15:20 – 15:35: Contributing paper presentation 5
+* 15:35 – 15:45: Workshop award ceremony and closing remarks
+**The schedule may subject to change according to the SDM conference schedule.*
 
-## Full contact information of the organizers:
+**Length of the workshop**: This workshop is expected to be a full-day event with two half-day sessions, split by a lunch break. 
 
-[Chenang Liu](https://stars-laboratory.github.io/), Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu
+## Speakers
+The workshop organizers will select and invite the keynote speakers. The organizers plan to invite 4-5 keynote speakers and will ensure a balanced distribution of those coming from industry and academia. Each keynote will be presented as a lecture with slides, and there will be a short Q&A session at the end of each keynote. 
 
-[Yao Ma](https://web.njit.edu/~ym329/), Assistant Professor, New Jersey Institute of Technology, yao.ma@njit.edu
+The submitted papers will undergo the standard double-blind peer-review process. The workshop organizers will invite experienced program committee (PC) members for this workshop to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection of the workshop will be made. The detailed review comments and notification letter will be sent to the authors accordingly, along with detailed information on whether they have been accepted for an oral presentation.
 
-[Diane Oyen](https://public.lanl.gov/doyen/), Scientist, Los Alamos National Laboratory, doyen@lanl.gov
+In addition, the workshop organizers will also invite judges from PC for the selection of best paper award. The results will be announced in the workshop award ceremony (as noted above in the tentative workshop schedule).
 
-[Yinan Wang](https://yinanw-rpi.com/), Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
+**Target audience**: This workshop is expected to invite leading researchers in the domain of data mining, machine learning, advanced manufacturing, and healthcare systems. The target audience will be program officers from funding agencies, industries, researchers who are interested in data science and its applications, and undergraduate/graduate students in the general engineering discipline who plan to pursue a career related to data science. 
 
-## Web Chair of this workshop:
-[Yue Zhao](https://ise.rpi.edu/people/yue-zhao), Ph.D. Student, Rensselaer Polytechnic Institute, zhaoy23@rpi.edu
+## Biography of the organizers:
+* [Chenang Liu](https://stars-laboratory.github.io/) is an Assistant Professor in the School of Industrial Engineering and Management at Oklahoma State University. He earned his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2019. He also received his master’s degree in Statistics from Virginia Tech in 2017 and double bachelor's degrees from Zhejiang University in 2014. His research interests include data-driven analytics, process quality monitoring and control methodologies, and artificial intelligence-enabled techniques for smart manufacturing and healthcare applications. His research contributions were recognized by multiple best paper/poster awards. His ongoing research projects are also funded by the federal agencies including NIH and NSF, as well as the Oklahoma Center for the Advancement of Science and Technology (OCAST). He is an associate editor of the Journal of Intelligent Manufacturing (JIM), a guest editor of the ASME Journal of Computing and Information Science in Engineering (JCISE), and an executive guest editor of the Journal of Manufacturing Systems (JMS). He was the organizer of 2022 IISE South Central Regional Conference, and he also served as the co-chair of the Data Analytics and Information Systems (DAIS) track in 2023 IISE Annual Conference.
+* [Yao Ma](https://web.njit.edu/~ym329/) is an Assistant Professor in the Department of Computer Science at the Rensselaer Polytechnic Institute (RPI). He received his Ph.D. in Computer Science from Michigan State University (MSU) in 2021, with a focus on machine learning with graph-structured data. His research contributions to this area have led to numerous innovative works presented at top-tier conferences such as KDD, WWW, WSDM, ICLR, NeurIPS, and ICML. He has also organized and presented several well-received tutorials at AAAI and KDD, attracting over 1000 attendees. He is the author of the book "Deep Learning on Graphs", which has been downloaded tens of thousands of times from over 100 countries. He was awarded the Outstanding Graduate Student Award (2019-2020) from the College of Engineering at MSU.
+* [Diane Oyen](https://public.lanl.gov/doyen/), Scientist, Los Alamos National Laboratory, doyen@lanl.gov
+* [Yinan Wang](https://yinanw-rpi.com/) is an Assistant Professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute. He received the B.S. degree in Electrical Engineering and Automation from Xi'an Jiaotong University in 2017, the M.S. in Electrical Engineering from Columbia University in 2019, and the Ph.D. in industrial and Systems Engineering from Virginia Tech in 2022. His research interests include data analytics and machine learning techniques in quality control of advanced manufacturing systems. He is the recipient of FTC Early Career Award, 10 Best Paper/Poster/Featured Article Awards, and two Best Ph.D. Dissertation Awards. He was the Mary and Joseph Natrella Scholar from ASA. He was co-organizer for the Symposium and Workshop in Manufacturing Science and Engineering Conference (MSEC) 2023 and SIAM International Conference on Data Mining (SDM) 2023. He serves as an active Board Director in IISE Data Analytics and Information Systems (DAIS) division. 
+
+## Previous workshop
+* DS2-MH Workshop at [SDM](https://sdm23wsmh.github.io/)
 
 ## Venue
-This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/lodging-and-support/hotel-transportation-information/sdm23-hotel-transportation-information).
+This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM24) on April 18 - 20, 2024, Houston, TX, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/conference/sdm24).
 
 <!---
 ### Workshop format:
