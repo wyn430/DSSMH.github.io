@@ -11,7 +11,7 @@ In the era of the Internet of Things (IoT), with the rapid development of advanc
 This workshop aims to demonstrate the recent research progress of data science, which focuses on addressing the unique challenges in manufacturing and healthcare systems, such as the gaps in data quality/security assurance, domain-aware data analytics, improvement of trustworthiness, etc. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by real-world problems in manufacturing and healthcare. Papers and/or posters focus on both theoretical foundations and applications are welcomed from the areas including but not limited to:
 
 ## Topics of Interest
-### <u>*Methodology*<\u>
+### *Methodology*
 
 * Active learning
 * Bayesian optimization
@@ -27,7 +27,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Trustworthy machine learning
 * Uncertainty quantification
 
-### <u>*Application*<\u>
+### *Application*
 
 * Additive manufacturing
 * Anomaly detection
