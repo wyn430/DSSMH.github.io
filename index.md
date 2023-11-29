@@ -63,14 +63,19 @@ This workshop aims to demonstrate the recent research progress of data science, 
 
 **Length of the workshop**: This workshop is expected to be a full-day event with two half-day sessions, split by a lunch break. 
 
-## Speakers
+## Important Dates (Central Time)
+* Travel Award Application: Jan. 18, 2024; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm24-conference-support)
+* Paper Submission: Feb. 26, 2023; submission link will be available soon.
+* Acceptance Notification: March 10, 2023
+* Final Paper Submission: April 1, 2023
+<!-- ## Speakers
 The workshop organizers will select and invite the keynote speakers. The organizers plan to invite 4-5 keynote speakers and will ensure a balanced distribution of those coming from industry and academia. Each keynote will be presented as a lecture with slides, and there will be a short Q&A session at the end of each keynote. 
 
 The submitted papers will undergo the standard double-blind peer-review process. The workshop organizers will invite experienced program committee (PC) members for this workshop to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection of the workshop will be made. The detailed review comments and notification letter will be sent to the authors accordingly, along with detailed information on whether they have been accepted for an oral presentation.
 
-In addition, the workshop organizers will also invite judges from PC for the selection of best paper award. The results will be announced in the workshop award ceremony (as noted above in the tentative workshop schedule).
+In addition, the workshop organizers will also invite judges from PC for the selection of best paper award. The results will be announced in the workshop award ceremony (as noted above in the tentative workshop schedule). -->
 
-**Target audience**: This workshop is expected to invite leading researchers in the domain of data mining, machine learning, advanced manufacturing, and healthcare systems. The target audience will be program officers from funding agencies, industries, researchers who are interested in data science and its applications, and undergraduate/graduate students in the general engineering discipline who plan to pursue a career related to data science. 
+<!-- **Target audience**: This workshop is expected to invite leading researchers in the domain of data mining, machine learning, advanced manufacturing, and healthcare systems. The target audience will be program officers from funding agencies, industries, researchers who are interested in data science and its applications, and undergraduate/graduate students in the general engineering discipline who plan to pursue a career related to data science.  -->
 
 ## Biography of the organizers:
 * **[Chenang Liu](https://stars-laboratory.github.io/)** is an Assistant Professor in the School of Industrial Engineering and Management at Oklahoma State University. He earned his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2019. He also received his master’s degree in Statistics from Virginia Tech in 2017 and double bachelor's degrees from Zhejiang University in 2014. His research interests include data-driven analytics, process quality monitoring and control methodologies, and artificial intelligence-enabled techniques for smart manufacturing and healthcare applications. His research contributions were recognized by multiple best paper/poster awards. His ongoing research projects are also funded by the federal agencies including NIH and NSF, as well as the Oklahoma Center for the Advancement of Science and Technology (OCAST). He is an associate editor of the Journal of Intelligent Manufacturing (JIM), a guest editor of the ASME Journal of Computing and Information Science in Engineering (JCISE), and an executive guest editor of the Journal of Manufacturing Systems (JMS). He was the organizer of 2022 IISE South Central Regional Conference, and he also served as the co-chair of the Data Analytics and Information Systems (DAIS) track in 2023 IISE Annual Conference.
