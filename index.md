@@ -87,6 +87,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 ## Venue
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM24) on April 18 - 20, 2024, Houston, TX, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/conference/sdm24).
 
+For questions regarding this workshop, please contact us at: **[chenang.liu@okstate.edu](https://stars-laboratory.github.io/)**
 <!---
 ### Workshop format:
 
