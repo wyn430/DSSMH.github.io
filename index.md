@@ -65,9 +65,9 @@ This workshop aims to demonstrate the recent research progress of data science, 
 
 ## Important Dates (Central Time)
 * Travel Award Application: Jan. 18, 2024; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm24-conference-support)
-* Paper Submission: Feb. 26, 2023; submission link will be available soon.
-* Acceptance Notification: March 10, 2023
-* Final Paper Submission: April 1, 2023
+* Paper Submission: Feb. 26, 2024; submission link will be available soon.
+* Acceptance Notification: March 10, 2024
+* Final Paper Submission: April 1, 2024
 
 ## Biography of the organizers:
 * **[Chenang Liu](https://stars-laboratory.github.io/)** is an Assistant Professor in the School of Industrial Engineering and Management at Oklahoma State University. He earned his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2019. He also received his master’s degree in Statistics from Virginia Tech in 2017 and double bachelor's degrees from Zhejiang University in 2014. His research interests include data-driven analytics, process quality monitoring and control methodologies, and artificial intelligence-enabled techniques for smart manufacturing and healthcare applications. His research contributions were recognized by multiple best paper/poster awards. His ongoing research projects are also funded by the federal agencies including NIH and NSF, as well as the Oklahoma Center for the Advancement of Science and Technology (OCAST). He is an associate editor of the Journal of Intelligent Manufacturing (JIM), a guest editor of the ASME Journal of Computing and Information Science in Engineering (JCISE), and an executive guest editor of the Journal of Manufacturing Systems (JMS). He was the organizer of 2022 IISE South Central Regional Conference, and he also served as the co-chair of the Data Analytics and Information Systems (DAIS) track in 2023 IISE Annual Conference.
