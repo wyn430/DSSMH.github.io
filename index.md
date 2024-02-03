@@ -65,7 +65,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 
 ## Important Dates (Central Time)
 * Travel Award Application: Jan. 18, 2024; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm24-conference-support)
-* Paper Submission: Feb. 26, 2024; submission link will be available soon.
+* Paper Submission: Feb. 26, 2024; [link](https://easychair.org/conferences/?conf=ds2mhatsdm24)
 * Acceptance Notification: March 10, 2024
 * Final Paper Submission: April 1, 2024
 
