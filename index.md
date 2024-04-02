@@ -62,19 +62,19 @@ This workshop aims to demonstrate the recent research progress of data science, 
 #### Morning Session
 * 10:00 – 10:10 Welcome and Opening Remarks
 * 10:10 – 10:30 Contributing paper presentation 1
-    - **Cheng Zhen**, Oregon State University, *When Can We Ignore Missing Data in Model Training?*
+    * **Cheng Zhen**, Oregon State University, *When Can We Ignore Missing Data in Model Training?*
 * 10:30 – 10:50 Contributing paper presentation 2
-    - **Jiayu Liu**, Rensselaer Polytechnic Institute, *Industrial 3D Point Cloud Anomaly Detection*
+    * **Jiayu Liu**, Rensselaer Polytechnic Institute, *Industrial 3D Point Cloud Anomaly Detection*
 * 10:50 - 11:25 Keynote presentation 1 - **Dr. Garrett Kenyo**, Los Alamos National Lab
 * 11:25 – 11:45 Contributing paper presentation 3
-    - **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Detection of Cyber Physical Attacks for Additive Manufacturing*
+    * **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Detection of Cyber Physical Attacks for Additive Manufacturing*
 
 #### Lunch Break (12:00 – 13:20)
 #### Afternoon Session
 * 13:30 - 13:50 Contributing paper presentation 4
-    - **Nevo Itzhak**, Ben Gurion University of the Negev, ECG Classification Using Deep Learning With Local State Abstraction
+    * **Nevo Itzhak**, Ben Gurion University of the Negev, ECG Classification Using Deep Learning With Local State Abstraction
 * 13:50 - 14:10 Contributing paper presentation 5
-    - **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Human Fatigue Expression Discovery via Time Series Chain*
+    * **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Human Fatigue Expression Discovery via Time Series Chain*
 * 14:10 - 14:45 Keynote presentation 2 - **Dr. Wei Hua**, Arizona State University
 * 14:45 – 15:20 Keynote presentation 3 - **Dr. Mucun Sun**, Idaho National Lab
 * 15:20 - 15:25 Closing Remarks
