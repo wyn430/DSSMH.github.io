@@ -75,13 +75,11 @@ This workshop aims to demonstrate the recent research progress of data science, 
     - **Nevo Itzhak**, Ben Gurion University of the Negev, ECG Classification Using Deep Learning With Local State Abstraction
 * 13:50 - 14:10 Contributing paper presentation 5
     - **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Human Fatigue Expression Discovery via Time Series Chain*
-* 14:10 - 14:45 Keynote presentation 2 – **Dr. Wei Hua**, Arizona State University
+* 14:10 - 14:45 Keynote presentation 2 - **Dr. Wei Hua**, Arizona State University
 * 14:45 – 15:20 Keynote presentation 3 - **Dr. Mucun Sun**, Idaho National Lab
 * 15:20 - 15:25 Closing Remarks
 
 *\*The schedule may subject to change according to the SDM conference schedule.*
-
-**Length of the workshop**: This workshop is expected to be a full-day event with two half-day sessions, split by a lunch break. 
 
 ## Important Dates (Central Time)
 * Travel Award Application: Jan. 18, 2024; [link](https://www.siam.org/conferences/cm/lodging-and-support/travel-support/sdm24-conference-support)
