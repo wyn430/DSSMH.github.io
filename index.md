@@ -58,6 +58,7 @@ Deep reinforcement learning (RL) has currently achieved success in prediction an
 * **Title: Automatic Anomaly Detection at Supercomputing Scale**
 Garrett T. Kenyon, Rusty Davis, Matt Sheats, Nathan Debardeleben
 Los Alamos National Laboratory
+
 **Abstract:** 
 Automating the detection of defects in CT scans of manufactured parts is perhaps best thought of as an example of anomaly detection. The number of potential defects is effectively infinite; almost anything that can go wrong in the fabrication process probably will go wrong at some point, and we require an algorithm capable of detecting that “something isn’t right” regardless of what that something is. An additional complication is that at very high resolution, CT scan volumes become enormous, often hundreds of gigabytes, making this a supercomputing problem. We have been approaching the problem of automatic anomaly detection at supercomputing scale using a technique derived from sparse coding. We start by training a set of convolutional 3-dimensional features that are optimized for the sparse reconstruction of “defect-free” manufactured parts. One may think of these 3-dimensional features as puzzle pieces that are optimized for reassembling representative CT scan volumes using as few puzzle pieces as possible. Because the algorithm struggles to reconstruct manufacturing defects using 3-dimensional features optimized for the sparse reconstruction of “defect-free” parts, defects show up as large residual errors. We are using PetaVision, a high-performance neural network simulator, to train sparse coding models on large CT scan volumes. PetaVision employs halos to split large CT scan volumes into smaller components, with each component distributed to a separate node and MPI used to pass halos to nearest neighbors, thereby coordinating the operations performed on individual nodes. PetaVision utilizes a hybrid approach to parallelism, employing MPI, openMP and GPU acceleration where available. Our preliminary studies indicate that Trinity KNL nodes are approximately a factor of 10 slower than Power 9 GPU nodes and that Nvidia A1000 GPU nodes are a factor of 10 faster still.
 
@@ -73,14 +74,14 @@ Automating the detection of defects in CT scans of manufactured parts is perhaps
     * **Jiayu Liu**, Rensselaer Polytechnic Institute, *Industrial 3D Point Cloud Anomaly Detection*
 * 10:50 - 11:25 Keynote presentation 1 - **Dr. Garrett Kenyon**, Los Alamos National Lab
 * 11:25 – 11:45 Contributing paper presentation 3
-    * **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Detection of Cyber Physical Attacks for Additive Manufacturing*
+    * **Frida Cantu**, University of Texas at Rio Grande Valley *Unsupervised Detection of Cyber Physical Attacks for Additive Manufacturing*
 
 #### Lunch Break (12:00 – 13:20)
 #### Afternoon Session
 * 13:30 - 13:50 Contributing paper presentation 4
-    * **Nevo Itzhak**, Ben Gurion University of the Negev, ECG Classification Using Deep Learning With Local State Abstraction
+    * **Nevo Itzhak**, Ben Gurion University of the Negev, *ECG Classification Using Deep Learning With Local State Abstraction*
 * 13:50 - 14:10 Contributing paper presentation 5
-    * **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Human Fatigue Expression Discovery via Time Series Chain*
+    * **Frida Cantu**, University of Texas at Rio Grande Valley *Unsupervised Human Fatigue Expression Discovery via Time Series Chain*
 * 14:10 - 14:45 Keynote presentation 2 - **Dr. Wei Hua**, Arizona State University
 * 14:45 – 15:20 Keynote presentation 3 - **Dr. Mucun Sun**, Idaho National Lab
 * 15:20 - 15:25 Closing Remarks
