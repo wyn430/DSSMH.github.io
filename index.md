@@ -45,27 +45,33 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Root cause diagnosis
 * Sustainable manufacturing 
 
-## Tentative Workshop Agenda
-<!-- * 10:00 – 10:10: Welcome and Opening Remarks
-* 10:10 – 10:50: Keynote presentation 1
-* 10:50 – 11:30: Keynote presentation 2
-* 11:30 – 11:45: Contributing paper presentation 1
-* 11:45 – 12:00: Contributing paper presentation 2
-* 12:00 – 13:30: Lunch break
-* 13:30 – 14:10: Keynote presentation 3
-* 14:10 – 14:50: Keynote presentation 4
-* 14:50 – 15:05: Contributing paper presentation 3
-* 15:05 – 15:20: Contributing paper presentation 4
-* 15:20 – 15:35: Contributing paper presentation 5
-* 15:35 – 15:45: Workshop award ceremony and closing remarks -->
+## Keynote Speakers
 
+* **Title: Trustworthy Decision Making in the Real World with Uncertainty Quantification**
+
+**Abstract:** 
+Deep reinforcement learning (RL) has currently achieved success in prediction and control tasks such as gaming, robotics, and language models, igniting curiosity about its applicability in real-world scenarios. This presentation focuses on deep RL for real-world decision-making, commencing with an exploration of potential applications and the challenges posed by uncertainty inherent in data and models. We will then discuss the implications of these uncertainties on the feasibility of prediction and control in real-world contexts. We will also share preliminary efforts aimed at addressing these challenges in applications such as sensor placement and policy evaluation.
+
+**Biography:**
+**[Hua Wei](https://www.public.asu.edu/~hwei27/)** is an assistant professor at the School of Computing and Augmented Intelligence (SCAI) in Arizona State University (ASU). He got his PhD from Pennsylvania State University in 2020. His recent work includes developing uncertainty quantification and large language models for spatio-temporal prediction and decision making He specializes in data mining, artificial intelligence and machine learning. He has been awarded the Best Paper at ECML-PKDD 2020, and his students and his own research work as a first author have been published in top conferences and journals in the fields of machine learning, data mining, and control (KDD, NeurlPS, AAAI, ICLR, IJCAI, CDC, ECML-PKDD, WWW, CIKM). His research has been funded by the National Science Foundation and the Department of Energy.
+
+* **Title: Automatic Anomaly Detection at Supercomputing Scale**
+Garrett T. Kenyon, Rusty Davis, Matt Sheats, Nathan Debardeleben
+Los Alamos National Laboratory
+**Abstract:** 
+Automating the detection of defects in CT scans of manufactured parts is perhaps best thought of as an example of anomaly detection. The number of potential defects is effectively infinite; almost anything that can go wrong in the fabrication process probably will go wrong at some point, and we require an algorithm capable of detecting that “something isn’t right” regardless of what that something is. An additional complication is that at very high resolution, CT scan volumes become enormous, often hundreds of gigabytes, making this a supercomputing problem. We have been approaching the problem of automatic anomaly detection at supercomputing scale using a technique derived from sparse coding. We start by training a set of convolutional 3-dimensional features that are optimized for the sparse reconstruction of “defect-free” manufactured parts. One may think of these 3-dimensional features as puzzle pieces that are optimized for reassembling representative CT scan volumes using as few puzzle pieces as possible. Because the algorithm struggles to reconstruct manufacturing defects using 3-dimensional features optimized for the sparse reconstruction of “defect-free” parts, defects show up as large residual errors. We are using PetaVision, a high-performance neural network simulator, to train sparse coding models on large CT scan volumes. PetaVision employs halos to split large CT scan volumes into smaller components, with each component distributed to a separate node and MPI used to pass halos to nearest neighbors, thereby coordinating the operations performed on individual nodes. PetaVision utilizes a hybrid approach to parallelism, employing MPI, openMP and GPU acceleration where available. Our preliminary studies indicate that Trinity KNL nodes are approximately a factor of 10 slower than Power 9 GPU nodes and that Nvidia A1000 GPU nodes are a factor of 10 faster still.
+
+**Biography:**
+**[Dr. Garrett T. Kenyon](https://petavision.github.io/petavision.html)** received his Bachelor's degree in Physics from the University of California, Santa Cruz and his Ph.D. in Physics from the University of Washington, Seattle and is currently a research scientist at the Los Alamos National Laboratory. He has worked for nearly forty years on problems involving various aspects of neural computation and neural computing. Dr. Kenyon has contributed to over 75 peer-refereed publications and has served as a reviewer for the NSF, NIH, DOE and other government agencies. Dr. Kenyon has led a number of research projects funded by the NSF, DARPA and DoD as well as projects funded by the DOE’s LDRD program.
+
+## Tentative Workshop Agenda
 #### Morning Session
 * 10:00 – 10:10 Welcome and Opening Remarks
 * 10:10 – 10:30 Contributing paper presentation 1
     * **Cheng Zhen**, Oregon State University, *When Can We Ignore Missing Data in Model Training?*
 * 10:30 – 10:50 Contributing paper presentation 2
     * **Jiayu Liu**, Rensselaer Polytechnic Institute, *Industrial 3D Point Cloud Anomaly Detection*
-* 10:50 - 11:25 Keynote presentation 1 - **Dr. Garrett Kenyo**, Los Alamos National Lab
+* 10:50 - 11:25 Keynote presentation 1 - **Dr. Garrett Kenyon**, Los Alamos National Lab
 * 11:25 – 11:45 Contributing paper presentation 3
     * **Frida Cantu**, University of Texas at Rio Grande Valley, *Unsupervised Detection of Cyber Physical Attacks for Additive Manufacturing*
 
