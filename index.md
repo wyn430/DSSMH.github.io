@@ -55,6 +55,8 @@ Deep reinforcement learning (RL) has currently achieved success in prediction an
 **Biography:**
 **[Hua Wei](https://www.public.asu.edu/~hwei27/)** is an assistant professor at the School of Computing and Augmented Intelligence (SCAI) in Arizona State University (ASU). He got his PhD from Pennsylvania State University in 2020. His recent work includes developing uncertainty quantification and large language models for spatio-temporal prediction and decision making He specializes in data mining, artificial intelligence and machine learning. He has been awarded the Best Paper at ECML-PKDD 2020, and his students and his own research work as a first author have been published in top conferences and journals in the fields of machine learning, data mining, and control (KDD, NeurlPS, AAAI, ICLR, IJCAI, CDC, ECML-PKDD, WWW, CIKM). His research has been funded by the National Science Foundation and the Department of Energy.
 
+------
+
 * **Title: Automatic Anomaly Detection at Supercomputing Scale**
 Garrett T. Kenyon, Rusty Davis, Matt Sheats, Nathan Debardeleben
 Los Alamos National Laboratory
@@ -66,7 +68,7 @@ Automating the detection of defects in CT scans of manufactured parts is perhaps
 **[Dr. Garrett T. Kenyon](https://petavision.github.io/petavision.html)** received his Bachelor's degree in Physics from the University of California, Santa Cruz and his Ph.D. in Physics from the University of Washington, Seattle and is currently a research scientist at the Los Alamos National Laboratory. He has worked for nearly forty years on problems involving various aspects of neural computation and neural computing. Dr. Kenyon has contributed to over 75 peer-refereed publications and has served as a reviewer for the NSF, NIH, DOE and other government agencies. Dr. Kenyon has led a number of research projects funded by the NSF, DARPA and DoD as well as projects funded by the DOE’s LDRD program.
 
 ## Tentative Workshop Agenda
-#### Morning Session
+##### Morning Session
 * 10:00 – 10:10 Welcome and Opening Remarks
 * 10:10 – 10:30 Contributing paper presentation 1
     * **Cheng Zhen**, Oregon State University, *When Can We Ignore Missing Data in Model Training?*
@@ -76,8 +78,8 @@ Automating the detection of defects in CT scans of manufactured parts is perhaps
 * 11:25 – 11:45 Contributing paper presentation 3
     * **Frida Cantu**, University of Texas at Rio Grande Valley *Unsupervised Detection of Cyber Physical Attacks for Additive Manufacturing*
 
-#### Lunch Break (12:00 – 13:20)
-#### Afternoon Session
+##### Lunch Break (12:00 – 13:20)
+##### Afternoon Session
 * 13:30 - 13:50 Contributing paper presentation 4
     * **Nevo Itzhak**, Ben Gurion University of the Negev, *ECG Classification Using Deep Learning With Local State Abstraction*
 * 13:50 - 14:10 Contributing paper presentation 5
