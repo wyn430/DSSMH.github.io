@@ -67,6 +67,17 @@ Automating the detection of defects in CT scans of manufactured parts is perhaps
 **Biography:**
 **[Dr. Garrett T. Kenyon](https://petavision.github.io/petavision.html)** received his Bachelor's degree in Physics from the University of California, Santa Cruz and his Ph.D. in Physics from the University of Washington, Seattle and is currently a research scientist at the Los Alamos National Laboratory. He has worked for nearly forty years on problems involving various aspects of neural computation and neural computing. Dr. Kenyon has contributed to over 75 peer-refereed publications and has served as a reviewer for the NSF, NIH, DOE and other government agencies. Dr. Kenyon has led a number of research projects funded by the NSF, DARPA and DoD as well as projects funded by the DOE’s LDRD program.
 
+------
+
+* **Title: Data-quality-aware Graph Machine Learning**
+
+**Abstract:** 
+Graph-structured data is ubiquitous in real-world applications (e.g., social networks, infrastructure, biomedical, etc.) and Graph Machine Learning (GML) has become a prominent method for handling graph-based data. Despite GML’s remarkable achievements, its reliance on node features and graph topology makes it susceptible to data quality challenges. Therefore, my research has focused on data-quality-aware graph machine learning, systematically examining issues related to topology, imbalance, and bias in graph data and proposing data/model-centric solutions to handle them. Furthermore, I have developed dedicated GML for many real-world application domains, such as computer-aided drug discovery, information retrieval on e-commerce platforms, and enhancing the reading experience for educational purposes. In this presentation, I will provide an overview of my research contributions while more thoroughly introducing my work on improved multi-document question-answering via knowledge graph with an LLM agent. In conclusion, I will highlight multiple future directions.
+
+**Biography:**
+**[Yu Wang](https://yuwvandy.github.io/)** is a final-year Ph.D. candidate in Computer Science at Vanderbilt University and will join University of Oregon as a Tenure-track Assistant Professor at this coming Fall. His main research focuses on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Information Retrieval, Infrastructure Networks and Chemistry. He has published 14+ papers in top conferences (e.g., ICLR, AAAI, WWW, KDD) and regularly serves as PC member/reviewer for international conferences and journals in machine learning and data mining, such as KDD, ICML, AAAI, WWW, WSDM. In addition, he has received numerous awards including two Best Paper Awards at Frontiers of Graph Learning Workshop at NeurIPS 2023 and the 2020 Smokey Mountain Data Challenge Competition by ORNL, Vanderbilt’s C. F. Chen Best Paper Award in 2022 as first-author (and Runner-Up Award in 2023 as co-author), had his work selected in top-10 Most Influential Papers at WWW 2023 and CIKM 2022 by Paper Digest, and was the sole recipient of Vanderbilt’s Graduate Leadership Anchor Award for Research in 2023.
+
+
 ## Tentative Workshop Agenda
 ##### Morning Session
 * 10:00 – 10:10 Welcome and Opening Remarks
@@ -85,7 +96,7 @@ Automating the detection of defects in CT scans of manufactured parts is perhaps
 * 13:50 - 14:10 Contributing paper presentation 5
     * **Frida Cantu**, University of Texas at Rio Grande Valley *Unsupervised Human Fatigue Expression Discovery via Time Series Chain*
 * 14:10 - 14:45 Keynote presentation 2 - **Dr. Wei Hua**, Arizona State University
-* 14:45 – 15:20 Keynote presentation 3 - **Dr. Mucun Sun**, Idaho National Lab
+* 14:45 – 15:20 Keynote presentation 3 - **Yu Wang**, Vanderbilt University
 * 15:20 - 15:25 Closing Remarks
 
 *\*The schedule may subject to change according to the SDM conference schedule.*
