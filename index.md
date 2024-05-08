@@ -1,5 +1,5 @@
 ---
-title: "SDM 2024 Workshop Proposal"
+title: "SDM 2024 Workshop"
 permalink: /
 layout: default
 ---
@@ -140,5 +140,5 @@ For questions regarding this workshop, please contact us at: **[chenang.liu@okst
 
 <p align="center">
   <img src="img/fig3.png" width="400">
-  <p>Fig. 3 Group Picture</p>
+  <p>Fig. 3 Data Science for Smart Manufacturing and Healthcare Workshop Group Picture</p>
 </p>
