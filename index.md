@@ -126,3 +126,19 @@ Graph-structured data is ubiquitous in real-world applications (e.g., social net
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM24) on April 18 - 20, 2024, Houston, TX, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/conference/sdm24).
 
 For questions regarding this workshop, please contact us at: **[chenang.liu@okstate.edu](https://stars-laboratory.github.io/)**
+
+## Gallery
+<p align="center">
+  <img src="img/fig1.png" width="400">
+  <p>Fig. 1 Snapshots of speakers in morning sessions.</p>
+</p>
+
+<p align="center">
+  <img src="img/fig2.png" width="400">
+  <p>Fig. 2 Snapshots of speakers in afternoon sessions.</p>
+</p>
+
+<p align="center">
+  <img src="img/fig3.png" width="400">
+  <p>Fig. 3 Group Picture</p>
+</p>
